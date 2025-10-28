@@ -1,25 +1,54 @@
-# Keziah Perfillon  
-**Développeur Web Fullstack**
+<h1 align="center">Keziah Perfillon</h1>
+<h3 align="center">Développeur Web Fullstack</h3>
 
-## À propos
-Je suis un développeur web passionné par la création d’applications performantes, modernes et centrées sur l’utilisateur.  
-Titulaire d'un **Titre Professionnel de Niveau 5 en Dev. Web**, je conçois et développe des projets complets, du front-end au back-end, avec une attention particulière à la qualité du code et à l’expérience utilisateur.
+<p align="center">
+Développement d'expériences web modernes, immersives et centrées utilisateur.
+<br>
+Du front-end à l’architecture back-end, avec une attention particulière au design, à la fluidité et à la qualité du code.
+</p>
 
-## Expériences récentes
-- Développement d’un **site de facturation en ligne** pour les clients de l'entreprise **A.F.I 974**  
-- Création d’un **site vitrine** pour l’entreprise **ÂME**  
-- Mise en place d’une **messagerie pour un site de covoiturage** (projet pédagogique)
+---
 
-## Stack & Compétences
+## 🔥 Ce que je fais
+
+- Développement **front-end** : interfaces modernes, responsive, animations
+- Développement **back-end** : Symfony, architecture MVC, ORM, sécurité
+- Conception **bases de données** : Merise / UML
+- Gestion de projet : Méthodes Agile, Trello
+- Design d’interfaces : Figma
+
+---
+
+## 🧩 Compétences
+
 **Langages :** PHP, JavaScript, HTML, CSS  
-**Frameworks :** Symfony, TailwindCSS, Bootstrap, jQuery  
-**Bases de données :** MySQL, SQL Server, MariaDB  
-**Outils & Méthodologies :** Git, Mercure, Trello, Figma, UML, Merise, Kanban  
+**Frameworks & Librairies :** Symfony, TailwindCSS, DaisyUI, Bootstrap, jQuery  
+**Base de données :** MySQL, SQL Server, MariaDB  
+**Outils :** Git, Trello, Figma, UML, Merise  
 
-## Objectif
-Continuer à renforcer mes compétences fullstack et collaborer sur des projets web innovants, combinant performance technique et design soigné.
+---
 
-## Contact
+## 🚀 Projets
+
+### **ÂME – Site Vitrine Immersif**
+Site responsive mettant en avant des expériences artistiques sensorielles.  
+Identité visuelle forte, animations, calendar events, formulaire de contact fonctionnel.
+
+**Stack :** Symfony · TailwindCSS · DaisyUI · SwiperJS · PHPMailer  
+**Site en ligne :** https://www.xn--me-experiences-cqb.fr  
+**Repo :** https://github.com/keziah974/ame-vitrine
+
+---
+
+### **Messagerie Temps Réel (AFKAR)**
+Messagerie entre utilisateurs d’un trajet, avec diffusion instantanée via Mercure.
+
+**Stack :** Symfony · Doctrine · Mercure · Bootstrap  
+**Repo :** https://github.com/keziah974/messagerie-symfony
+
+---
+
+## 📫 Contact
+
 **Email :** keziahnoamperfillon@gmail.com  
 **Localisation :** Montpellier  
-**Permis B :** Oui  
